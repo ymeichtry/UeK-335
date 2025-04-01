@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Counter</string>
+    <string name="button_reset">Zurücksetzen</string>
+    <string name="button_minus_one">-1</string>
+    <string name="button_plus_one">+1</string>
+    <string name="textview_counter">0</string>
+</resources>
